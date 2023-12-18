@@ -9,8 +9,10 @@ This Python project employs MySQL for database management. The graphical interfa
 1.	Input: User inputs through the Tkinter-based graphical interface.
 2.	Processing: Python scripts manage data validation, database interactions (using pymysql), and algorithmic calculations for grades and attendance.
 3.	Output: Processed data is displayed on the GUI, and reports are generated for analysis.
+   
 **Algorithms:**
 1.	User Authentication: Verify login credentials securely using authentication algorithms.
+   
 **Architectural Design:**
 1.	Frontend: Tkinter and ttkthemes create a responsive and visually appealing GUI.
 2.	Backend: Python scripts handle data processing, validation, and algorithm implementation.
