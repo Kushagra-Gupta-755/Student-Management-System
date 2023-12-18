@@ -18,3 +18,9 @@ This Python project employs MySQL for database management. The graphical interfa
 2.	Backend: Python scripts handle data processing, validation, and algorithm implementation.
 3.	Database: MySQL serves as the relational database for efficient data storage and retrieval.
 4.	Libraries: Utilize libraries such as pymysql for database connectivity and pandas for data manipulation.
+
+   # References
+•	Youtube Tutorials – Coding Lifestyle 4u
+https://www.youtube.com/@codinglifestyle4u
+https://www.youtube.com/watch?v=FoAXWjkWvrM
+
