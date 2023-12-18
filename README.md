@@ -21,6 +21,10 @@ This Python project employs MySQL for database management. The graphical interfa
 
    # References
 •	Youtube Tutorials – Coding Lifestyle 4u
+
 https://www.youtube.com/@codinglifestyle4u
+
 https://www.youtube.com/watch?v=FoAXWjkWvrM
+
+https://www.youtube.com/watch?v=k9ICA7LDIZQ
 
