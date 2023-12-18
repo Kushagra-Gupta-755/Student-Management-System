@@ -7,7 +7,7 @@ This Python project employs MySQL for database management. The graphical interfa
 # Project Design
 **Data Flow:**
 1.	Input: User inputs through the Tkinter-based graphical interface.
-2.	Processing: Python scripts manage data validation, database interactions (using pymysql), and algorithmic calculations for grades and attendance.
+2.	Processing: Python scripts manage data validation, database interactions (using pymysql), for grades, attendance and other data.
 3.	Output: Processed data is displayed on the GUI, and reports are generated for analysis.
    
 **Algorithms:**
